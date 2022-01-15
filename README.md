@@ -1,2 +1,2 @@
 # TechnoAnjali-Git
--Harshal Solao says this is best project.
+-Harshal Solao says that this is best project.
